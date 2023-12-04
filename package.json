@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-message-komodo",
+  "name": "bitcore-message-candy",
   "version": "1.0.2",
   "description": "Zcash Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "komodo",
+    "candy",
     "bitcore",
     "btc",
     "satoshi",
